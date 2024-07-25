@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmmirror.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
     "test": "node ./__tests__/utils.test.js"
@@ -22,5 +22,5 @@
   "dependencies": {
     "vue-router": "^4.4.0"
   },
-  "gitHead": "5fb546c3bca0069cb5d93faffca95cf6c74c7b41"
+  "gitHead": "4d152116a61490b013c546e5d15c66891c640081"
 }
