@@ -1,0 +1,25 @@
+{
+  "name": "@whp-cli-dev/core",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "王鹤鹏 <wanghp069@avic.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  },
+  "dependencies": {
+    "vue-router": "^4.4.0"
+  }
+}
