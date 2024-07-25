@@ -3,6 +3,6 @@
 module.exports = core;
 
 function core() {
-  console.log('222');
+  console.log('2223');
   return 'Hello from core';
 }

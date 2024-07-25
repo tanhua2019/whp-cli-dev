@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "vue-router": "^4.4.0"
-  }
+  },
+  "gitHead": "b0c045e5f128e67c3650d5ec3cc3786fa54efde9"
 }
